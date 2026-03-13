@@ -15,7 +15,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Red+Team+%7C+AI+Security+%7C+Medical+Imaging+Defense;Founder+%40+MedShield+AI;Building+AI+that+defends+what+matters+most.)](https://git.io/typing-svg)
+# `~/CyberSentinel-sys`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Red+Team+%7C+AI+Security+%7C+Medical+Imaging+Defense;Founder+%40+MedShield+AI;Building+AI+that+defends+what+matters+most.)](https://git.io/typing-svg)
 
 </div>
 
